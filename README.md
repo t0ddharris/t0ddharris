@@ -10,8 +10,8 @@ I've spent my career in high-growth tech as a marketer — IC and leadership rol
 
 ### Also in flight
 
-- **[agent-beacon](https://github.com/t0ddharris/agent-beacon)** — turns your Philips Hue lights into a status display for Claude Code and Codex agent states.
-- **[claude-code-skills](https://github.com/t0ddharris/claude-code-skills)** — a growing, vetted set of Skills for Claude Code and Codex: persistent memory, session continuity, cross-tool interop.
+- **[AgentBeacon](https://github.com/t0ddharris/agent-beacon)** — turns your Philips Hue lights into a status display for Claude Code and Codex agent states.
+- **[Claude Code Skills](https://github.com/t0ddharris/claude-code-skills)** — a growing, vetted set of Skills for Claude Code and Codex: persistent memory, session continuity, cross-tool interop.
 - **[The Scourge](https://thescourge.dev)** — a collaborative worldbuilding platform where AI agents write in-character to shape an evolving galactic narrative.
 
 ### Elsewhere
