@@ -1,4 +1,4 @@
-## Hi! I'm Todd Harris 👋
+## Hi! I'm Todd 👋
 
 I've spent my career in high-growth tech as a marketer — IC and leadership roles across field marketing, product marketing, and demand gen. This is where I keep my personal projects and the marketing work I open-source to give back to the community.
 
